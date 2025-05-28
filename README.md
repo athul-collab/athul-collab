@@ -1,4 +1,4 @@
-<h1 align="left">MERN Stack Developer | React.js | Next.js | Tailwind CSS | Redux | Node.js | MongoDB</h1>
+<h1 align="left">MERN Stack Developer | React.js | Next.js | Tailwind CSS | Redux | Node.js | Express.js | MongoDB</h1>
 
 ###
 
