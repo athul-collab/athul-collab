@@ -1,4 +1,4 @@
-<h1 align="left">MERN Stack Developer | React.js | Next.js | Tailwind CSS | Redux | Node.js | Express.js | MongoDB</h1>
+<h1 align="left">MERN Stack Developer | React.js | Next.js | Tailwind CSS | Redux | Node.js | MongoDB</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Hey ! I'm Athul B Alex, a passionate MERN stack developer eager to build scalable and performant full-stack applications. As a fresher, I focus on clean code, user-centric design, and continuous learning.</h2>
+<h2 align="left">Hey !!  I'm Athul B Alex, a passionate MERN stack developer eager to build scalable and performant full-stack applications. As a fresher, I focus on clean code, user-centric design, and continuous learning.</h2>
 
 ###
 
@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
