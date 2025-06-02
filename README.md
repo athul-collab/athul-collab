@@ -1,4 +1,4 @@
-<h1 align="left">FULL Stack Developer | SpringBoot | Spring Data JPA | Spring Security | MySql | React.js | Next.js | Tailwind CSS | Redux | Node.js | Express.js | MongoDB</h1>
+<h1 align="left">FULL STACK DEVELOPER | SpringBoot | Spring Data JPA | Spring Security | MySql | React.js | Next.js | Tailwind CSS | Redux | Node.js | Express.js | MongoDB</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Hey !!  I'm Athul B Alex, a passionate FULL stack developer eager to build scalable and performant full-stack applications. As a fresher, I focus on clean code, user-centric design, and continuous learning.</h2>
+<h2 align="left">Hey !!  I'm Athul B Alex, a passionate FULL STACK DEVELOPER eager to build scalable and performant full-stack applications. As a fresher, I focus on clean code, user-centric design, and continuous learning.</h2>
 
 ###
 
