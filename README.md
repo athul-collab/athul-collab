@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">Hey !!  I'm Athul B Alex, a passionate MERN stack developer eager to build scalable and performant full-stack applications. As a fresher, I focus on clean code, user-centric design, and continuous learning.</h2>
+<h2 align="left">Hey !!  I'm Athul B Alex, a passionate FULL stack developer eager to build scalable and performant full-stack applications. As a fresher, I focus on clean code, user-centric design, and continuous learning.</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning :<br>- TypeScript<br>- Socket.IO for real-time apps<br>- Performance optimization & testing</p>
+<p align="left">📚 I'm currently learning :<br>- TypeScript<br>- Socket.IO<br>- Microservices for real-time apps<br>- Performance optimization & testing</p>
 
 ###
 
