@@ -1,4 +1,4 @@
-<h1 align="left">MERN Stack Developer | React.js | Next.js | Tailwind CSS | Redux | Node.js | MongoDB</h1>
+<h1 align="left">FULL Stack Developer | SpringBoot | Spring Data JPA | Spring Security | MySql | React.js | Next.js | Tailwind CSS | Redux | Node.js | MongoDB</h1>
 
 ###
 
